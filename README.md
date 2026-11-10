@@ -64,7 +64,7 @@ These are examples, not proof of overall labor-market demand. The TikTok posting
 
 ## Peer feedback and decision history
 
-**Current status:** No portfolio peer-feedback issue, reviewer retry, or resolution is recorded yet. The check above is planned, not an observed result. A reviewer can open J01, trace its AI-interaction requirement to the proposed *Idea Thinker* decision and acceptance check, then leave specific feedback in the [portfolio repository’s issues](https://github.com/JivExperimenters/Jivitesh-Portifolio/issues).
+**Current status:** No portfolio peer-feedback issue, reviewer retry, or resolution is recorded yet. The check above is planned, not an observed result. The next step is to request classmate review in the [portfolio repository’s issues](https://github.com/JivExperimenters/Jivitesh-Portifolio/issues); the current research-round requirement is 3–5 constructive issues per classmate, per project. If peer feedback is missing, document the review request and contact the instructor promptly to arrange another reviewer.
 
 When feedback arrives, record the issue, decide whether to implement, investigate, defer, or decline it, link the resulting documentation/code change, describe the check actually performed, and ask the reviewer to retry before resolving an accepted issue. Keep unfinished work open with its next step.
 
