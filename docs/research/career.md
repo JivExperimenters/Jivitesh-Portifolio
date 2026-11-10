@@ -4,6 +4,37 @@
 
 This page records how I moved from employer descriptions to a portfolio direction. It is not a job-market forecast, application statement, or copy of my private Canvas reflection. The question, evidence, assumptions, alternatives, and planned check are visible so a reviewer can trace the reasoning.
 
+**Finding:** The strongest evidence so far points toward AI product interaction and creative tooling, while the forward-deployed engineering path remains a longer-term contrast rather than the closest fit for my current portfolio.
+
+## At a glance
+
+| Question | My current read | Why it matters |
+|---|---|---|
+| What role family matches my current evidence? | AI product interaction and design for creative tools. | The TikTok posting aligns more closely with the interface work and product logic I already make. |
+| What is the key contrast? | Forward-deployed engineering. | It focuses on customer workflow translation, technical implementation, and measurable production deployment; the experience bar is much higher. |
+| What am I trying to prove next? | That I can explain a user problem, show a design decision, and make AI response states understandable. | That is a more credible next portfolio step than claiming a full shipped product without evidence. |
+| What is the biggest gap? | Evidence that a user can continue through an AI-assisted flow when the result is empty, loading, or weak. | That is the place where I can demonstrate interaction thinking and recovery logic. |
+
+## Where I'm starting
+
+**What I can show now**
+
+- **Interface and creative direction:** *Idea Thinker* explores guided ideation, word-game prompting, and creative mode flows. It connects directly to the product-design direction I am exploring.
+- **Mobile and interaction thinking:** *Offline TV* helps show my interest in navigation, content organization, and product-state clarity across a multi-screen flow.
+- **AI-assisted experimentation:** AppAssemblers demonstrates that I can work inside AI-assisted builders and share interactive prototypes, even when the result is not a claim of final product quality.
+- **Interactive storytelling and game design:** I use games and stories as evidence of choice-state, progression, and feedback thinking, which are relevant to AI product UX.
+- **Research method:** My T-shirt research and related portfolio work taught me to separate what I observed from what I infer, a habit I want to keep in this project.
+
+**Constraints:** I am a student building toward a design and product portfolio, not a senior engineer with a production deployment track record. My current evidence is strongest for interaction design, concept framing, and prototype communication rather than for a full customer-facing technical role.
+
+## Three role families
+
+| Role family | What the work looks like | Why I looked at it | My read |
+|---|---|---|---|
+| **AI product interaction / design** | Shape consumer-facing AI experiences, define the logic behind user needs, and carry work from concept toward implementation. | It is the closest match to my current portfolio strengths and the TikTok design posting. | This is the direction I am actively testing. |
+| **Forward-deployed engineering** | Translate customer needs into technical solutions, prototype and deploy AI workflows, and work with organizations on implementation. | It is a useful contrast because it is technical, customer-facing, and much more execution-heavy. | It matters as a long-term comparison, not a near-term claim. |
+| **Creative tooling and interactive product design** | Build flows that help a user move from raw idea to usable next step without sacrificing agency. | This sits at the intersection of my design interests, story work, and AI product exploration. | It is the space I want my case study to inhabit. |
+
 ## My question
 
 **What kind of portfolio evidence would help me explore AI product and interaction design for consumer apps and creative tools, and how is that work different from forward-deployed engineering?**
