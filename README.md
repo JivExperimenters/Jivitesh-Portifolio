@@ -10,8 +10,9 @@ This public record summarizes employer evidence and a proposed portfolio directi
 2. [Original employer sources and observations](#original-employer-sources-and-observations)
 3. [Evidence versus assumptions](#evidence-versus-assumptions)
 4. [Alternatives and decision](#alternatives-and-decision)
-5. [Proposed story and check](#proposed-story-and-check)
-6. [Peer feedback and decision history](#peer-feedback-and-decision-history)
+5. [Current portfolio evidence and gaps](#current-portfolio-evidence-and-gaps)
+6. [Proposed story and check](#proposed-story-and-check)
+7. [Peer feedback and decision history](#peer-feedback-and-decision-history)
 
 ## Research question and audience
 
@@ -29,6 +30,17 @@ Both links below are the employers’ original postings. I reopened them on **No
 | **J02** | [Apple Jobs — Forward Deployed Engineer, Role 200668208-0836](https://jobs.apple.com/en-us/details/200668208-0836/forward-deployed-engineer) · checked Nov. 10, 2026 | Cupertino, California; 40 weekly hours; posted Oct. 13, 2026. Responsibilities include translating Sales problems into engineering specifications, building prototypes and reusable platform features, integrating APIs/AI services, and sharing user needs with Product and Engineering. Minimum qualifications include 12+ years in a related technical role and a bachelor’s degree or equivalent practical experience. | No closing date was stated in the page I checked. It displayed “Submit Resume,” but I could not confirm application availability. A prior draft records a Nov. 2 close date; that date was not confirmed on the current Apple page, so availability remains **unverified**. |
 
 These are examples, not proof of overall labor-market demand. The TikTok posting is closer to an early-career design direction. Apple’s stated experience requirement makes its FDE role a useful contrast, not a near-term eligibility claim.
+
+### What differs between the two roles
+
+| Comparison | TikTok AI Product Designer Graduate (J01) | Apple Forward Deployed Engineer (J02) |
+|---|---|---|
+| Main problem | Shape a consumer AI product and its interaction from concept toward launch. | Embed with Sales users, translate business workflow problems into technical solutions, and help make solutions reusable. |
+| Work emphasized | User/business logic mapping, interaction and UI, AI product experience, Figma and mobile guidelines, Product/Engineering partnership. | Prototyping plus production services, Python/JavaScript, SQL, APIs, AI/ML workflows, and cross-functional technical delivery. |
+| Evidence a portfolio could show | A rationale-backed UX case study, mobile interaction flow, reusable components, and thoughtful AI response states. | A working end-to-end technical example, requirements, integration and evaluation evidence, and implementation trade-offs. |
+| Career-stage signal in the posting | Graduate track; completing or recently completed degree and design-related skills are stated. | 12+ years of related experience are stated. Treat this as a distant comparison rather than evidence of a current entry route. |
+
+This distinction explains the direction choice: the postings share translating needs into solutions, but the center of the work and expected proof differ. The comparison is between two selected descriptions, not a claim about every design or engineering role.
 
 ## Evidence versus assumptions
 
@@ -54,13 +66,26 @@ These are examples, not proof of overall labor-market demand. The TikTok posting
 
 **Provisional decision:** Explore AI product and interaction design for consumer applications and creative tools. Use the existing *Idea Thinker* concept as a planned case study, not as evidence of a finished or tested feature. Revisit this direction if a reviewer cannot trace the employer evidence into the proposed interaction, or if testing shows the interaction does not help a user recover from an unhelpful response.
 
+## Current portfolio evidence and gaps
+
+The supplied career inventory includes real artifacts that can support parts of this direction. Existing artifacts show work I can point to; they do not prove that the proposed *Idea Thinker* flow is usable or that an employer would select me.
+
+| Capability suggested by J01 | Evidence available now | What that evidence does not establish | Proposed next proof |
+|---|---|---|---|
+| Frame a user problem and explain design choices | The [T-shirt competitor research](https://github.com/JivExperimenters/T-Shirt) records a shopper scenario and connects observations to design implications. The [Idea Thinker Figma flow](https://www.figma.com/design/7pKC9IzbJfw51wonL2CNi1/IDEA-THINKER?t=N3qugy3usVNQrT7o-1) presents guided ideation modes. | Competitor observations are not interviews with Idea Thinker users; existing screens alone do not show why this is a real problem for student creators. | Write a short problem brief that labels the student/indie-creator audience as a hypothesis, captures constraints, and compares three non-AI ways to start an idea. Ask a reviewer to restate the intended user and problem. |
+| Design consumer interaction logic and reusable mobile UI | The [Idea Thinker flow](https://www.figma.com/design/7pKC9IzbJfw51wonL2CNi1/IDEA-THINKER?t=N3qugy3usVNQrT7o-1) and [Offline TV wireframes](https://www.figma.com/design/1dhaIImEsfI7EQQCd9t8kF/OFFLINE-TV?node-id=0-1&p=f&t=QdVnJVRqyrqCE2mm-0) show multi-screen concepts and navigation. | The draft identifies ad-hoc styling, no documented reusable component library, and missing evidence for empty, loading, and low-quality AI-response states. Screens are not proof of mobile-guideline compliance. | Add a focused component/state page for the two scoped Idea Thinker modes, including prompt input, loading, empty, unhelpful-response, and recovery variants. Then audit touch targets and contrast; record the actual audit rather than presuming compliance. |
+| Prototype and communicate a working concept | [AppAssemblers](https://app-assemblers.lovable.app/chat/3024b72a-955d-43df-a1ad-d493237cf2c7), [The Reckoner](https://reckoner-son-of-soil.base44.app/), and [Only Winners Play](https://only-winners-play.base44.app/) are examples of deployed or interactive project work listed in the supplied inventory. | These are adjacent projects, not a working AI implementation of Idea Thinker; a tool-assisted prototype does not by itself establish reliable AI behavior or production engineering skill. | If the Figma flow is clear, build a small interactive prototype for Guided MCQ and Movie Twist with a visible prompt pattern and a deterministic fallback. Clearly label simulated responses if no model is connected. |
+| Check whether a person can use the flow | The supplied inventory mentions informal self-testing of games and web apps. | It does not record a peer walkthrough of Idea Thinker, task outcomes, confusion points, or a before/after iteration. | Run the planned task check below, record each observed result and confusion point, make one revision if needed, and invite the reviewer to retry the same tasks. |
+
+The [itch.io collection](https://jiviteshdjollygamers.itch.io/) also shows interactive narrative and game work. It can illustrate interest in branching interactions, but it does not substitute for evidence about AI product design, mobile components, or user testing.
+
 ## Proposed story and check
 
 **Evidence-to-decision trace:** J01 asks for trustworthy, user-centered AI experiences and logic mapping from user need to implementation → I infer that users may need to understand what the AI is doing and what they can do when its output is poor → propose making the *Idea Thinker* case study show its empty, loading, and unhelpful-response states with a clear recovery action.
 
 **User story:** As someone exploring an idea with an AI tool, I want to understand the response state and recover from an unhelpful result so I can continue without guessing what happened.
 
-**Planned acceptance check — not yet run:** Ask a classmate to use the prototype for three scenarios: start with no result, wait for a result, and recover from an unhelpful result. Without hints, the classmate should identify the current state and the next available action in each scenario, then successfully retry or revise the request. Record the observed outcome and any confusion before changing the design. This check can assess the prototype; it cannot establish hiring outcomes.
+**Planned acceptance check — not yet run:** After the prototype states exist, ask a classmate to use it without hints in three scenarios: start with no result, wait for a result, and recover from an unhelpful result. For each task, record whether the person identifies the current state, finds the next action, and completes the retry or revision; note time and any confusion. A proposed initial success target is at least four of five participants completing each task without help. If fewer do so, revise the unclear state or action and ask a reviewer to retry the same tasks. The five-person target is a proposed design check, not an assignment requirement or observed finding. This check can assess the prototype; it cannot establish hiring outcomes.
 
 ## Peer feedback and decision history
 
