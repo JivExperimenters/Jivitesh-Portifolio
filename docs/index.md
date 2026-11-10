@@ -21,6 +21,13 @@ This site is a working portfolio, not a claim that every idea here is finished o
   <p><strong>Idea Thinker</strong> is my concept for guided ideation. I want to develop its existing Figma flows into a focused case study that explains the problem, compares non-AI alternatives, makes AI response states visible, and records what a peer can and cannot complete without hints.</p>
 </div>
 
+<div class="vp-doc" style="max-width: 760px; margin: 0 auto; text-align: left; padding-top: 1rem;">
+  <h2>At a glance</h2>
+  <p><strong>Strongest match:</strong> AI product interaction and design for creative tools. The TikTok role aligns more closely with the work I already make than the Apple engineering role does.</p>
+  <p><strong>Key contrast:</strong> Forward-deployed engineering is a useful long-term comparison, but its experience bar and production depth do not match my near-term portfolio proof.</p>
+  <p><strong>Next evidence to add:</strong> a clear user problem, an AI-state flow for empty/loading/unhelpful results, and a peer usability check showing whether a person can continue without my explanation.</p>
+</div>
+
 <div class="features">
   <div class="feature">
     <h2>Career research</h2>

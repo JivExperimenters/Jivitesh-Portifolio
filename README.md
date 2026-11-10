@@ -28,6 +28,31 @@ The descriptions overlap in translating needs into solutions, but they point tow
 
 I reopened both original employer pages on **November 10, 2026**. TikTok’s page says applications are reviewed on a rolling basis and displayed an application link, but it does not state a calendar closing date. Apple’s page did not state a closing date when I checked; an older note in my draft that said November 2 was not confirmed on the current page, so I mark its availability unverified. Full source details and the evidence/assumption split are in my [career research record](docs/research/career.md).
 
+## At a glance
+
+| Question | My current read | Why it matters |
+|---|---|---|
+| What role family matches my current evidence? | AI product interaction and design for creative tools. | The TikTok posting aligns more closely with the interface work and product logic I already make. |
+| What is the key contrast? | Forward-deployed engineering. | It emphasizes customer workflow translation, technical implementation, and production deployment; the experience bar is much higher. |
+| What am I trying to prove next? | That I can explain a user problem, show a design decision, and make AI response states understandable. | That is a stronger near-term portfolio claim than saying I can ship a full production system without evidence. |
+| What is the biggest gap? | Evidence that a user can continue through an AI-assisted flow when the result is empty, loading, or weak. | That is the place where I can demonstrate interaction thinking and recovery logic. |
+
+## Portfolio action plan
+
+My main goal is not to show every project I have ever made. It is to turn *Idea Thinker* into a case study that can answer the question a reviewer actually cares about: can I turn a vague creative problem into a usable interaction, and can I show the logic behind it?
+
+### Three evidence targets
+
+1. **Problem framing and user need:** Show why someone gets stuck when an idea is blank, incomplete, or low-quality, and why a guided UI helps.
+2. **AI-state handling:** Make loading, empty, and unhelpful-result states visible and actionable instead of hiding them behind generic success screens.
+3. **Interaction and system thinking:** Demonstrate reusable interface patterns, clear next actions, and a simple usability check that tests whether a peer can continue without my explanation.
+
+### What I am building toward
+
+- A documented UX and AI prototype case study around *Idea Thinker*
+- A focused comparison between product design work and forward-deployed engineering work
+- A peer usability walkthrough that shows whether the flow helps a person continue without confusion
+
 ## My current work and what it proves
 
 | Project | Why I include it | What I am careful not to claim |
