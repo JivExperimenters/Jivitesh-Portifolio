@@ -1,41 +1,59 @@
 # Jivitesh Duddu — Readable Portfolio Résumé
 
-**Newark / Parsippany-Troy Hills, NJ (NYC Metro Area)**  
-**GitHub:** [github.com/JivExperimenters](https://github.com/JivExperimenters) · **Portfolio:** [jivexperimenters.github.io/Jivitesh-Portifolio](https://jivexperimenters.github.io/Jivitesh-Portifolio/) · **LinkedIn:** [linkedin.com/in/jivitesh-duddu](https://www.linkedin.com/in/jivitesh-duddu) · **itch.io:** [jiviteshdjollygamers.itch.io](https://jiviteshdjollygamers.itch.io/)
+**Parsippany, New Jersey (Newark / NYC Metro Area)**  
+**GitHub:** [github.com/JivExperimenters](https://github.com/JivExperimenters) · **Portfolio:** [jivexperimenters.github.io/Jivitesh-Portifolio](https://jivexperimenters.github.io/Jivitesh-Portifolio/) · **Games (itch.io):** [jiviteshdjollygamers.itch.io](https://jiviteshdjollygamers.itch.io/) · **LinkedIn:** [linkedin.com/in/jivitesh-duddu](https://www.linkedin.com/in/jivitesh-duddu)
 
-**Target Focus:** Summer 2027 Product Design, UI/UX & Interactive Prototyping Internships (NYC / NJ Metro & Hybrid)
+## Summary
+
+Sophomore **Bachelor of Science in Enterprise AI** student at **New Jersey Institute of Technology (NJIT)** with hands-on software development internship experience at **BizFirst AI**. Built UI/UX wireframes in Figma, interactive web prototypes with SQLite persistence, and choice-driven visual novel games in Ren'Py, focusing on **AI Product Design & Interactive Web Prototyping** for Summer 2027 internships in the NYC/NJ metro area and 2027 graduate tracks.
 
 ## Education
 
-**New Jersey Institute of Technology (NJIT)** — Newark, NJ  
-*Bachelor of Science Candidate (Computing & Web Development Track)*  
-* **Relevant Coursework:** IS117 (Introduction to Website Development), CS 113/114 (Introduction to Computer Science I & II), IT 310 ( E-Commerce & Interface Design).
+**New Jersey Institute of Technology (NJIT)** — Newark, NJ *(Sep 2025 – May 2029)*  
+*Bachelor of Science in Enterprise AI (Ying Wu College of Computing)*  
+* **Relevant Coursework:** Intro to Website Development (`IS 117`), Roadmap to Computing (`CS 100`), Intro to CS 1 (`CS 113`), Intro to CS 2 (`CS 114`), E-commerce Technology (`IT 310`).
+* **Clubs & Organizations:** IGDA (International Game Developer Association), ACM (Association of Computing Machinery), SIGCHI (Special Interest Group on Computer-Human Interaction).
 
-## Skills & Tools
+**Parsippany High School** — Parsippany, NJ *(Sep 2021 – Jun 2025)*  
+* **Awards & Activities:** FTC Robotics State Finalist (2022–2024), National STEM Honor Society, Academic Honor Roll, MIT App Inventor Certificate; HACC, FBLA, DECA, STEM Pathways, Robotics.
 
-* **Product & Interaction Design:** Figma (Wireframing, Multi-Screen User Flows, Interactive Prototypes, Component Planning), User Stories, Competitive UX Audits, Cialdini Ethical Persuasion, Modernist/Postmodernist Visual Hierarchy.
-* **Web & Prototype Development:** HTML5, CSS3, JavaScript (ES6+), Node.js, SQLite (`schema.sql`, persistent CRUD APIs), VitePress, Git & GitHub (Pull Requests, Issue Triage, GitHub Actions Pages).
-* **AI-Assisted Prototyping & Game Design:** Prompt-to-UI workflows (`ChatGPT`, `Claude`, `GitHub Copilot`, `Lovable`, `Base44`), Interactive Narrative & Game Mechanics (`itch.io`).
+## Internship Experience
 
-## Selected UX, Web & Course Projects (Inspectable Evidence)
+**BizFirst AI** — Texas (Remote) *(May 2025 – Aug 2025)*  
+*Software Developer Intern*  
+* Developed a FastText word embeddings project in Python, achieving valid, reproducible output through testing with small datasets.
+* Contributed to the development of the *iAccumalate* app, enhancing core functionality and user experience.
+* Built a custom Chromium browser using Java and HTML to optimize browsing performance and features.
+
+## Selected UX, Web & Game Projects
 
 ### 1. Idea Thinker — Guided Creative Ideation App (Figma UX Prototype & Case Study)
 * **Artifact:** [Public Figma Design File](https://www.figma.com/design/7pKC9IzbJfw51wonL2CNi1/IDEA-THINKER?t=N3qugy3usVNQrT7o-1) · [In-Repo Preview](/screenshots/idea-thinker.png)
-* Designed an 8-screen mobile ideation flow featuring *Guided Thinking (MCQ Mode)*, *Movie Twist Mode*, and *Mind Games (Wordle & Crossword idea prompts)* to help student creators overcome blank-page paralysis.
-* Currently extending the flow with reusable iOS/Android component tokens (`44x44pt` tap targets) and explicit empty, loading, and unhelpful-AI-response recovery states for a 5-peer usability walkthrough.
+* Designed an 8-screen mobile ideation flow featuring *Guided Thinking (MCQ Mode)*, *Movie Twist Mode*, and *Mind Games (Wordle & Crossword idea generators)*.
+* Ran a peer usability task on the *Guided Thinking* screen and revised the flow specification to include empty-prompt starter chips and an inline *"Refine 1 Step Back / Switch to Movie Twist"* recovery bar.
 
 ### 2. IS117 Individual T-Shirt Store — Research, Plan & SQLite Checkout Prototype
 * **Repository:** [github.com/JivExperimenters/T-Shirt](https://github.com/JivExperimenters/T-Shirt) · **Live Documentation Site:** [jivexperimenters.github.io/T-Shirt](https://jivexperimenters.github.io/T-Shirt/)
-* Audited 3 contrasting apparel retailers ([Crazy Dog T-Shirts](https://www.crazydogtshirts.com/), [CheapesTees](https://www.cheapestees.com/), and [Jiffy](https://www.jiffy.com/)) across 12 buying stages (`E01–E12`), identifying hidden shipping and preselected `$0.49` protection-fee frictions.
+* Audited 3 apparel retailers across 12 buying stages (`E01–E12`), identifying hidden shipping and preselected `$0.49` protection-fee frictions.
 * Planned and built a Modernist storefront prototype backed by a persistent **SQLite database (`db/store.sqlite`)** supporting per-size pricing (`S–3XL`), a 3-bar wearer fit summary, and fee-free simulated checkout (`run → save → reopen`).
 
-### 3. Offline TV — 10-Screen Media Hub Architecture (Figma Wireframes)
-* **Artifact:** [Public Figma Design File](https://www.figma.com/design/1dhaIImEsfI7EQQCd9t8kF/OFFLINE-TV?node-id=0-1&p=f&t=QdVnJVRqyrqCE2mm-0) · [In-Repo Preview](/screenshots/offline-tv.png)
-* Structured a 10-screen navigation system across *Home, Movies, Education, Settings, Music, Games,* and *Pictures* with consistent category filtering.
+### 3. Visual Novel & Interactive Game Builds (Ren'Py / itch.io)
+* **Collection:** [jiviteshdjollygamers.itch.io](https://jiviteshdjollygamers.itch.io/) · [In-Repo Preview](/screenshots/save-the-apple.png)
+* **Birds View** *(Aug – Sep 2026)*: Experimental pre-modern fairytale visual novel in Ren'Py built around choice-driven branching narrative paths.
+* **Save the Apple** *(Aug 2026)*: Comedy visual novel in Ren'Py featuring custom integrated audio, interactive menus, and a 9-question variable-tracked joke test.
+* **Systematic Arcs** *(Jul – Aug 2026)*: Interactive poetry exhibition visual novel triggering paintings, sculptures, and audio tracks through dialogue choices.
+* **Withers in Rage Flower** *(Jul 2026)*: 10-second psychological countdown visual novel using timed scene switching, asset swapping, and variable state tracking.
 
-### 4. Deployed Interactive Web Apps & Indie Game Collection
-* **Live Public Web Apps (No Login Required):** [The Reckoner: Son of the Soil](https://reckoner-son-of-soil.base44.app/), [Only Winners Play](https://only-winners-play.base44.app), and [Momentum Lab](https://momentumlab1.netlify.app/).
-* **Playable Indie Games (`itch.io`):** Published 6 interactive builds at [jiviteshdjollygamers.itch.io](https://jiviteshdjollygamers.itch.io/) (*Save the Apple, Systematic Arcs, Bird's View, Surreal Times, Decide His Biopic, Withers In Rage Flower*).
+### 4. Offline TV, Public Web Apps & C++ Budget Calculator
+* **Offline TV (Figma):** [10-screen media hub wireframes](https://www.figma.com/design/1dhaIImEsfI7EQQCd9t8kF/OFFLINE-TV?node-id=0-1&p=f&t=QdVnJVRqyrqCE2mm-0) · [In-Repo Preview](/screenshots/offline-tv.png)
+* **Public No-Login Web Apps:** [The Reckoner: Son of the Soil](https://reckoner-son-of-soil.base44.app/), [Only Winners Play](https://only-winners-play.base44.app), and [Momentum Lab](https://momentumlab1.netlify.app/).
+* **Budget Calculator (C++, May – Jun 2023):** Built a C++-based expense calculator that tracks, categorizes, and analyzes user spending patterns per period.
 
 ### 5. IS117 Shared Group Business Website
-* **Destination:** Linked via our [Portfolio Plan](./plan) and GitHub profile ([`@JivExperimenters`](https://github.com/JivExperimenters))—documenting team repository contributions, issue discussions, and verified commits.
+* **Destination:** Tracked via our [Portfolio Plan](./plan) and GitHub profile ([`@JivExperimenters`](https://github.com/JivExperimenters)), linking our shared team repository, member usernames, and verified individual commits/issues.
+
+## Key & Technical Skills
+
+* **Languages:** Python, Java, C++, HTML, CSS, R, JavaScript, SQL (SQLite)
+* **Tools & Platforms:** Figma, Git / GitHub, Ren'Py, Godot, React Native, OpenAI, Gemini, VitePress, MS Office Suite
+* **Industry Knowledge:** AI & Agentic AI, AI Chatbots, Machine Learning, UX/UI & Product Design, Web Design, Application Development, Game Design & Development, Data Analytics, Storytelling
