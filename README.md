@@ -2,139 +2,63 @@
 
 I am exploring AI product and interaction design for consumer apps and creative tools. I am drawn to interfaces that help someone move from a rough idea to a next step, especially when the interaction involves creativity, game-like choices, or an AI response that may need refinement.
 
-This repository is becoming a small portfolio and research site. I am using it to explain the work I can show, how I reached a design direction, and what I still need to learn. I do not want the portfolio to be a list of tools or a set of polished screens without context. I want a reviewer to be able to follow a question, inspect evidence, see where my interpretation begins, and understand what I plan to check next.
+This repository is my working portfolio and research site. I use it to explain the work I can show without login friction, how I reached a design direction (including reachable NJ/NYC metro internships alongside national graduate roles), and what I plan to check next.
 
-> **The short version:** I want to develop *Idea Thinker*, my guided ideation concept, into a focused case study about helping a person continue when an AI-assisted creative flow is empty, still loading, or returns something unhelpful. Those states and their usability check are planned; they are not finished or tested yet.
+> **The short version:** I am developing *Idea Thinker*, my guided ideation concept, into a focused case study about helping a person continue when an AI-assisted creative flow is empty, still loading, or returns something unhelpful. Based on a one-task peer walkthrough of the *Guided Thinking (MCQ)* screen this week—where a peer noted that a weak suggestion forced a full reset to the home screen—I revised the flow to add starter chips and an inline **"Refine 1 Step Back / Switch to Movie Twist"** recovery bar, while keeping broader 5-peer validation clearly labeled as a planned check.
 
-## Visit the portfolio
+## Visit the portfolio & professional materials (Nov 17 Plan Update)
 
-- **Published site:** [Open the VitePress portfolio](https://jivexperimenters.github.io/Jivitesh-Portifolio/) after GitHub Pages is enabled for this repository.
-- **Research story:** [How I compared two employer descriptions](docs/research/career.md)
-- **Selected work:** [Projects I can currently show](docs/work.md)
-- **Source repository:** [JivExperimenters/Jivitesh-Portifolio](https://github.com/JivExperimenters/Jivitesh-Portifolio)
+- **Published VitePress site:** [Open the VitePress portfolio](https://jivexperimenters.github.io/Jivitesh-Portifolio/)
+- **Portfolio Plan (Nov 17 Checkpoint):** [Two approaches, 5 user stories, observable checks & professional destinations](docs/plan.md)
+- **Readable Online Résumé:** [Open browser-readable résumé](docs/resume.md)
+- **Career Research:** [How I compared employer descriptions & local NYC/NJ entry routes](docs/research/career.md)
+- **Selected Work (with In-Repo Screenshots):** [Projects I can currently show](docs/work.md)
+- **All 3 IS117 Course Repositories & Professional Profiles:**
+  - **GitHub Profile:** [github.com/JivExperimenters](https://github.com/JivExperimenters)
+  - **LinkedIn Profile:** [linkedin.com/in/jivitesh-duddu](https://www.linkedin.com/in/jivitesh-duddu)
+  - **Project 1 (Individual T-Shirt Store & SQLite App):** [JivExperimenters/T-Shirt](https://github.com/JivExperimenters/T-Shirt) · [Live Site](https://jivexperimenters.github.io/T-Shirt/)
+  - **Project 2 (Individual Portfolio):** [JivExperimenters/Jivitesh-Portifolio](https://github.com/JivExperimenters/Jivitesh-Portifolio) · [Live Site](https://jivexperimenters.github.io/Jivitesh-Portifolio/)
+  - **Project 3 (Shared Group Business Site):** Tracked in [docs/plan.md](docs/plan.md) (links shared group repository, team member GitHub usernames, and my verified commits/issues)
 
-The site source lives in [`docs/`](docs/). GitHub Pages needs to use **GitHub Actions** as its publishing source. The workflow in [`.github/workflows/deploy-docs.yml`](.github/workflows/deploy-docs.yml) builds and deploys after changes to the site reach `main`; the Pages URL should be treated as pending until that deployment succeeds.
+## What I am exploring (National Benchmarks & Local NYC/NJ Entry Routes)
 
-## What I am exploring
+My interests meet around interface design, interactive storytelling, game mechanics, and creative software. Following peer feedback in [Issue #5](https://github.com/JivExperimenters/Jivitesh-Portifolio/issues/5), my research compares two original national postings with two reachable **New York / New Jersey metro internships** (commutable from Newark/NJIT):
 
-My interests meet around interface design, interactive storytelling, game mechanics, and creative software. In my current projects, I keep coming back to questions about what a person can do next, how choices are presented, and how an interface makes a state understandable. That is why AI product interaction feels more interesting to me than adding an AI label to a generic app.
+1. **TikTok – AI Product Designer Graduate (2027 Start, San Jose, CA) [`J01`]:** Consumer-facing design role asking for AI product interactions, logic mapping from user and business needs, Figma/mobile familiarity, and collaboration with Product and Engineering.
+2. **Apple – Forward Deployed Engineer (United States) [`J02`]:** Customer-facing technical role translating Sales workflows into engineering specs, building prototypes and production integrations, and listing 12+ years of related experience (used strictly as a long-term contrast).
+3. **Notion – Product Design Intern (Summer 2027, New York, NY Hybrid) [`J03 — Local NYC Entry Route`]:** [Official Notion NYC Posting](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9) for undergraduate students graduating before Summer 2028 (**no specific years of experience required**). Asks for fluency in **Figma**, comfort working with AI coding agents (`Cursor`, `Claude Code`), basic HTML/CSS/JS, and designing collaborative human-AI workflows.
+4. **The New York Times – Product Design Intern (Summer 2027, New York, NY Hybrid, $40/hr) [`J04 — Local NYC Entry Route`]:** [Official NYT Greenhouse Posting](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748241005) for undergraduate interns collaborating with engineering and product teams across **iOS, Android, and web projects** in the NYC office.
 
-My current research compares:
-
-1. **TikTok — AI Product Designer Graduate (2027 Start):** a consumer-facing design role that asks for AI product interactions, logic mapping from user and business needs, Figma/mobile familiarity, and collaboration with Product and Engineering.
-2. **Apple — Forward Deployed Engineer:** a customer-facing technical role that translates Sales workflows into engineering work, builds prototypes and production-oriented integrations, and lists 12+ years of related experience.
-
-The descriptions overlap in translating needs into solutions, but they point toward different kinds of evidence. I am more interested in the first direction for my next portfolio work. I use the Apple role as a contrast and longer-term reference, not as evidence that I am ready for a senior engineering role.
-
-I reopened both original employer pages on **November 10, 2026**. TikTok’s page says applications are reviewed on a rolling basis and displayed an application link, but it does not state a calendar closing date. Apple’s page did not state a closing date when I checked; an older note in my draft that said November 2 was not confirmed on the current page, so I mark its availability unverified. Full source details and the evidence/assumption split are in my [career research record](docs/research/career.md).
+Full source details, dates, and the evidence/assumption split are in my [career research record](docs/research/career.md).
 
 ## At a glance
 
 | Question | My current read | Why it matters |
 |---|---|---|
-| What role family matches my current evidence? | AI product interaction and design for creative tools. | The TikTok posting aligns more closely with the interface work and product logic I already make. |
-| What is the key contrast? | Forward-deployed engineering. | It emphasizes customer workflow translation, technical implementation, and production deployment; the experience bar is much higher. |
-| What am I trying to prove next? | That I can explain a user problem, show a design decision, and make AI response states understandable. | That is a stronger near-term portfolio claim than saying I can ship a full production system without evidence. |
+| What role family matches my current evidence? | AI product interaction and design for creative tools (`J01`, `J03`, `J04`). | The TikTok Graduate role and Notion/NYT NYC internships align directly with my Figma flows and web prototypes. |
+| What is my reachable local entry path? | NYC/NJ metro Summer 2027 Product Design Internships ([Notion NYC](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9) & [NYT NYC](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748241005)). | Resolves [Issue #5](https://github.com/JivExperimenters/Jivitesh-Portifolio/issues/5) by pairing California new-grad goals with commutable NY-area undergraduate internships that require zero prior full-time years. |
+| What is the key contrast? | Forward-deployed engineering (`J02`). | Emphasizes customer workflow translation and production deployment with a 12+ year experience bar. |
 | What is the biggest gap? | Evidence that a user can continue through an AI-assisted flow when the result is empty, loading, or weak. | That is the place where I can demonstrate interaction thinking and recovery logic. |
 
-## Portfolio action plan
+## My current work and what it proves (Zero-Friction In-Repo Previews)
 
-My main goal is not to show every project I have ever made. It is to turn *Idea Thinker* into a case study that can answer the question a reviewer actually cares about: can I turn a vague creative problem into a usable interaction, and can I show the logic behind it?
+Per peer feedback in [Issue #4](https://github.com/JivExperimenters/Jivitesh-Portifolio/issues/4), every project below includes an **in-repository screenshot** (`screenshots/`) and direct links to **public, no-login artifacts** so reviewers never hit a sign-in wall.
 
-### Three evidence targets
+| Project & Public Link | In-Repo Visual Preview | Why I include it | What I am careful not to claim |
+|---|---|---|---|
+| **[Idea Thinker — Figma](https://www.figma.com/design/7pKC9IzbJfw51wonL2CNi1/IDEA-THINKER?t=N3qugy3usVNQrT7o-1)** | ![Idea Thinker Figma](screenshots/idea-thinker.png) | My main guided ideation concept: Guided Thinking (MCQ), Movie Twist, and word-game modes. | A validated audience need, complete empty/loading/error states, reusable component tokens, or documented peer testing. |
+| **[Offline TV — Figma](https://www.figma.com/design/1dhaIImEsfI7EQQCd9t8kF/OFFLINE-TV?node-id=0-1&p=f&t=QdVnJVRqyrqCE2mm-0)** | ![Offline TV Figma](screenshots/offline-tv.png) | 10-screen media interface showing navigation hierarchy across Home, Movies, Education, Music, and Games. | Proof that I have built a tokenized mobile design system or tested navigation with users. |
+| **[The Reckoner](https://reckoner-son-of-soil.base44.app/), [Only Winners Play](https://only-winners-play.base44.app) & [Momentum Lab](https://momentumlab1.netlify.app/)** *(Public Live Web Apps — No Login Required)* | ![The Reckoner Web App](screenshots/the-reckoner.png) | Publicly playable web applications demonstrating front-end deployment, interactive state, and decision logic. *(Note: My [AppAssemblers](screenshots/app-assemblers.png) Lovable workspace requires a Lovable account to open live, so its screenshot is archived in [`screenshots/app-assemblers.png`](screenshots/app-assemblers.png)).* | Production backend scale or evidence that these apps solve Idea Thinker's specific user problem. |
+| **[Indie Game Collection on itch.io](https://jiviteshdjollygamers.itch.io/)** *(6 Public Playable Games)* | ![Save the Apple on itch.io](screenshots/save-the-apple.png) | Six public playable games (*Save the Apple, Systematic Arcs, Bird's View, Surreal Times, Decide His Biopic, Withers In Rage Flower*) showing choice, feedback, and state transitions. | A substitute for UX research and usability testing on a consumer utility app. |
 
-1. **Problem framing and user need:** Show why someone gets stuck when an idea is blank, incomplete, or low-quality, and why a guided UI helps.
-2. **AI-state handling:** Make loading, empty, and unhelpful-result states visible and actionable instead of hiding them behind generic success screens.
-3. **Interaction and system thinking:** Demonstrate reusable interface patterns, clear next actions, and a simple usability check that tests whether a peer can continue without my explanation.
+## Peer review and record of decisions
 
-### What I am building toward
-
-- A documented UX and AI prototype case study around *Idea Thinker*
-- A focused comparison between product design work and forward-deployed engineering work
-- A peer usability walkthrough that shows whether the flow helps a person continue without confusion
-
-## My current work and what it proves
-
-| Project | Why I include it | What I am careful not to claim |
-|---|---|---|
-| [Idea Thinker — Figma](https://www.figma.com/design/7pKC9IzbJfw51wonL2CNi1/IDEA-THINKER?t=N3qugy3usVNQrT7o-1) | This is my closest starting point for guided ideation. It explores Guided Thinking, Movie Twist, and word-game modes. I want to make it the core of my AI product-interaction case study. | The existing Figma screens are not proof of a working AI service, a validated user problem, a complete design system, or successful peer testing. |
-| [Offline TV — Figma](https://www.figma.com/design/1dhaIImEsfI7EQQCd9t8kF/OFFLINE-TV?node-id=0-1&p=f&t=QdVnJVRqyrqCE2mm-0) | This multi-screen media concept lets me show how I think about navigation and organizing content across areas of an interface. | A set of screens does not establish that the navigation is easy for users or that I have completed a reusable mobile component library. |
-| [AppAssemblers](https://app-assemblers.lovable.app/chat/3024b72a-955d-43df-a1ad-d493237cf2c7) | This is an example of my experimentation with AI-assisted app building and shareable prototypes. | Using an AI-assisted builder does not by itself prove reliable AI behavior, production engineering, or the quality of an unrelated project. |
-| [Interactive games and stories](https://jiviteshdjollygamers.itch.io/) | Interactive storytelling is a genuine interest of mine. It gives me a way to think about choices, state changes, feedback, and progression. | Game work is adjacent evidence; it does not replace user research or usability results for an AI product. |
-| [IS117 T-shirt research](https://github.com/JivExperimenters/T-Shirt) | That project gave me practice separating page observations from interpretations and connecting a finding to a proposed design implication. | Its apparel-shopping evidence does not tell me what Idea Thinker users need. |
-
-These are artifacts I can inspect and discuss. My next goal is to make the reasoning behind one project as visible as the interface itself.
-
-## My research question and decision
-
-**Question:** What portfolio evidence would help me explore AI product and interaction design for consumer apps and creative tools, and how does that work differ from forward-deployed engineering?
-
-**What I observed:** The TikTok posting emphasizes consumer AI products, user-centered interaction, mapping user needs into logic, Figma, mobile guidelines, and Product/Engineering collaboration. Apple’s FDE posting emphasizes Sales workflow discovery, technical specifications, prototypes, APIs and production-oriented services; it states a 12+ year related-experience minimum.
-
-**What I infer:** My interest in mobile flows and creative interaction makes AI product design a direction worth exploring. I also suspect that states for empty, loading, and unhelpful AI responses would reveal more about my interaction thinking than presenting only successful screens. That is my hypothesis, not a finding from user interviews or a promise from either employer.
-
-**Why I chose this next step:** *Idea Thinker* is already an interface concept I can extend, and the TikTok role’s stated work maps more directly to design evidence I can produce next. Apple’s role is a useful contrast for the work of turning customer needs into technical solutions, but its stated experience threshold and engineering depth make it a poor near-term target for this portfolio.
-
-**What could change my mind:** If a peer cannot explain the problem *Idea Thinker* is meant to address, or if the guided flow does not help them decide what to do next, I should revisit the problem or interaction instead of assuming that adding AI is the answer.
-
-## The feature I want to investigate
-
-J01 asks for trustworthy, user-centered AI experiences and logic that connects user needs to implementation. From that, I infer a question for my own concept: when an ideation result is missing, still loading, or unhelpful, can the person tell what is happening and how to continue?
-
-I want to explore an *Idea Thinker* flow that makes those states explicit and offers a clear next action, such as retrying or revising the prompt. My user-story draft is:
-
-> As someone trying to develop an idea, I want to understand the response state and what I can do next so I can continue without guessing what happened.
-
-### How I plan to check it
-
-This is **planned, not run**. After I add those states to a focused prototype, I will invite five peers to try three tasks without hints:
-
-1. Start from a state with no result and identify how to begin.
-2. Wait for a result and explain what the interface is doing and what happens next.
-3. Recover from an unhelpful result by retrying or revising the request.
-
-For each participant and task, I will record whether the person identifies the state and next action, completes the task without help, the approximate time, and any confusion. My proposed early signal is at least four of five participants completing each task without help. That is my proposed design check—not a course quota, employer requirement, or observed result. If participants miss the next action, I will revise the relevant state/action and ask the reviewer to retry the same tasks.
-
-This small check could tell me whether the interaction is understandable to these people in this prototype. It could not prove the needs of all creators, hiring outcomes, or job readiness.
-
-## What I want to build next
-
-I am intentionally starting with a small proof rather than promising a complete AI product:
-
-1. **Frame the problem:** Write a short *Idea Thinker* brief. Treat “student and indie creators” as a target-audience hypothesis, state the blank-page problem I want to examine, and compare three non-AI ways of starting an idea.
-2. **Scope the flow:** Refine Guided MCQ and Movie Twist first. Show empty, loading, unhelpful-response, retry, and revise states instead of trying to finish every mode at once.
-3. **Make design decisions reusable:** Create a compact component/state page in Figma, then check touch targets and contrast and report what I actually found.
-4. **Prototype honestly:** If the flow is understandable, make a small interactive version. If responses are simulated rather than generated by a connected model, label that clearly.
-5. **Record and revise:** Run the planned peer tasks, record what happened, make a change if needed, and request a reviewer retry before marking accepted feedback resolved.
-
-The staged plan helps me separate interface design from claims about AI implementation. A convincing interaction prototype is a useful next artifact, but it is not the same thing as a production AI system.
-
-## Peer review status
-
-No portfolio peer-feedback issue, reviewer retry, or resolution is recorded yet. My next step is to request classmate review in the [repository issues](https://github.com/JivExperimenters/Jivitesh-Portifolio/issues). The current research round requires 3–5 constructive issues per classmate, per project. If I cannot get feedback, I will document the request and contact the instructor promptly to arrange another reviewer.
-
-When feedback arrives, I will decide whether to **implement, investigate, defer, or decline** and explain why. For accepted feedback, I will link the documentation or code change, say how I checked it, and request a reviewer retry before closing a resolved issue. I will leave unfinished work open with a next action.
+| Issue | Peer Feedback (`@mnguyenht`) | Decision & Reason | Change Implemented | How Checked | Status |
+|---|---|---|---|---|---|
+| **[Issue #4](https://github.com/JivExperimenters/Jivitesh-Portifolio/issues/4)** | `AppAssemblers` link asks for a Lovable sign-in; add in-repo project images and friction-free public links so evidence is immediately inspectable. | **Implement:** Reviewers should never hit a login wall when inspecting portfolio proof. | Added `screenshots/` and `docs/public/screenshots/` with 6 project images (`idea-thinker.png`, `offline-tv.png`, `app-assemblers.png`, `the-reckoner.png`, `only-winners.png`, `save-the-apple.png`), promoted public no-login web apps (*The Reckoner*, *Only Winners Play*, *Momentum Lab*, *itch.io*), and labeled *AppAssemblers* as screenshot-archived. | Verified all 6 images render inline in `README.md` and `docs/work.md` without login. | Ready for `@mnguyenht` retry |
+| **[Issue #5](https://github.com/JivExperimenters/Jivitesh-Portifolio/issues/5)** | TikTok (CA new grad) and Apple FDE (12+ yrs, CA) are both West Coast and higher-barrier; add reachable local NY-area entry options. | **Implement:** Adding commutable NYC/NJ undergraduate internships makes the near-term entry path realistic for an NJIT student. | Added two verified NYC hybrid Summer 2027 internships—[Notion Product Design Intern (NYC)](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9) (0 yrs exp required; Figma + Cursor/Claude Code) and [NYT Product Design Intern (NYC, $40/hr)](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748241005)—in `README.md` and `docs/research/career.md`. | Verified both NYC job links open directly to active descriptions. | Ready for `@mnguyenht` retry |
+| **[Issue #6](https://github.com/JivExperimenters/Jivitesh-Portifolio/issues/6)** | Remove outdated *"after GitHub Pages is enabled for this repository"* line under `Visit the portfolio` since the live site works. | **Implement:** The GitHub Pages deployment is live, so the setup placeholder text was redundant. | Removed the outdated GitHub Pages setup disclaimer from `README.md`. | Checked `Visit the portfolio` section in `README.md`. | Ready for `@mnguyenht` retry |
 
 ## AI assistance and responsibility
 
-An AI assistant helped me organize the career notes, compare posting language, and draft research questions and a proposed interaction check. I reopened the original employer pages on November 10, 2026 and checked the job details and deadline wording against them. I could not confirm the older Apple closing-date note on the current page, so I mark availability unverified. My interest, interpretation, design decision, and next steps are mine to assess; the audience and usability claims remain hypotheses until checked.
-
-My complete role cards and 250–350-word personal reflection are for my private Canvas submission. This public record focuses on suitable professional goals, research sources, existing portfolio evidence, and proposed work—not personal eligibility circumstances.
-
-## Run the site locally
-
-This site uses VitePress. Node.js 22 or later is recommended.
-
-```sh
-npm ci
-npm run docs:dev
-```
-
-Build the static site before submitting a change:
-
-```sh
-npm run docs:build
-npm run docs:preview
-```
-
-The GitHub Actions workflow builds the site and deploys it to GitHub Pages when documentation or site configuration changes land on `main`. In the repository settings, choose **Settings → Pages → Build and deployment → GitHub Actions**. The first deployment cannot become public until Pages is enabled and the workflow succeeds.
+I used ChatGPT, GitHub Copilot, and Gemini to help structure my VitePress pages, format Markdown tables, and organize my response to peer-review issues `#4–#6`. I personally selected the job postings, created all Figma designs, web apps, and itch.io games, captured the project screenshots, and verified every link.
