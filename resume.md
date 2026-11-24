@@ -50,7 +50,7 @@ Sophomore **Bachelor of Science in Enterprise AI** student at **New Jersey Insti
 * **Budget Calculator (C++, May – Jun 2023):** Built a C++-based expense calculator that tracks, categorizes, and analyzes user spending patterns per period.
 
 ### 5. IS117 Shared Group Business Website
-* **Destination:** Tracked via our [Portfolio Plan](./plan) and GitHub profile ([`@JivExperimenters`](https://github.com/JivExperimenters)), linking our shared team repository, member usernames, and verified individual commits/issues.
+* **Repository & Live Site:** [github.com/JivExperimenters/group-business](https://github.com/JivExperimenters/group-business) · [jivexperimenters.github.io/group-business](https://jivexperimenters.github.io/group-business/) (*ClubThread Quotes* — B2B Campus Club Merch Quote & Estimate Assistant built with Minh Nguyen `@mnguyenht`).
 
 ## Key & Technical Skills
 
